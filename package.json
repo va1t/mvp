@@ -1,0 +1,27 @@
+{
+  "name": "hrr24-mvp",
+  "version": "1.0.0",
+  "description": "Top 10 Song Analyzer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/va1t/hrr24-mvp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/va1t/hrr24-mvp/issues"
+  },
+  "homepage": "https://github.com/va1t/hrr24-mvp#readme",
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "express": "^4.15.3",
+    "express-react-views": "^0.10.2",
+    "path": "^0.12.7",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
