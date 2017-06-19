@@ -17,28 +17,28 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+  > Top 10 Song Analyzer
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  > For anyone curious about commonly used lyrics used in popular songs.
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  > Top 10 Song Analyzer will grab the top 10 songs for the past year, analyze them and search for commonly used words. 
 
 ## Problem ##
-  > Describe the problem your product solves.
+  > The Top 10 Song Analyzer cures boredom. 
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
+  > Top 10 Song Analyzer will search a top 100 song ranking site for the top 10 songs for the past year.  It will then generate a list of songs to download the lyrics and compare commonly used words.
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
+  > "Often, pop music sounds similar. Is it the beats or the lyrics? Lets find out! Science." - Pete
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
+  > "This project will be a challenge"
 
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  > "Mind blown. Sure did cure more bordem." -Chris
 
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
+  > Please enjoy my site and play with the settings.
