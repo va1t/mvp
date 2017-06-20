@@ -4,12 +4,22 @@ var path = require("path");
 
 var routes = require('./routes/app')
 
+//required from default view?
+require('node-jsx').install();
+
 app.use('/', routes);
+app.use(express.static(path.join(__dirname)));
 
 //view engine setup
 app.set('views', __dirname + '/views');
 app.set('view engine', 'jsx');
-app.engine('jsx', require('express-react-views').createEngine());
+
+var options = { 
+    doctype: '<!DOCTYPE html>',
+    beautify: true
+};
+
+app.engine('jsx', require('express-react-views').createEngine(options));
 
 
 

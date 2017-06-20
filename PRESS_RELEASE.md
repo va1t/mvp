@@ -38,7 +38,7 @@ Once the project moves into development, the press release can be used as a touc
   > "This project will be a challenge"
 
 ## Customer Quote ##
-  > "Mind blown. Sure did cure more bordem." -Chris
+  > "Mind blown. Sure did cure my bordem." -Chris
 
 ## Closing and Call to Action ##
   > Please enjoy my site and play with the settings.
